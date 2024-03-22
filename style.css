@@ -62,8 +62,6 @@ header .nav span {
     justify-content: space-between;
     align-items: center;
     padding-left: 170px;
-    
-    
 }
 
 header .nav span a{
@@ -74,6 +72,42 @@ header .nav span a{
     color: gray;
     
 }
+
+section form
+{
+    height: 500px;
+    color: aquamarine;
+    
+}
+
+footer
+{
+    height: 105px;
+    width: 100%;
+}
+
+footer .superior
+{
+    display: flex;
+    justify-content: center;
+    height: 60px;
+    width: 100%;
+    background-color: rgb(48, 54, 52);
+    
+}
+
+footer .superior a 
+{
+    display: flex;
+    padding: 20px;
+    color: rgb(173, 171, 171);
+}
+
+footer .inferior
+{
+    background-color: black;
+}
+
 
 
 /*IMAGENES*/
