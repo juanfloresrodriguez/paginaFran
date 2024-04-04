@@ -75,7 +75,12 @@ header .nav span a{
 
 section form
 {
-    height: 500px;
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    
+    height: 700px;
     color: aquamarine;
     
 }
