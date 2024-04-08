@@ -113,7 +113,12 @@ footer .inferior
     background-color: black;
 }
 
+footer .inferior a img{
+    width: 32px;
+    height: 32px;
+    
 
+}
 
 /*IMAGENES*/
 header .nav #logo
